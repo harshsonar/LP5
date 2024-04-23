@@ -1,4 +1,4 @@
-#include<omp.h>
+// #include<omp.h>
 #include<iostream>
 #include<time.h>
 using namespace std;
